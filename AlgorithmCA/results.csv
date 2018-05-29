@@ -1,0 +1,627 @@
+Algorithm,Time,Array Type
+S. Bubble,4896885,Sorted,1000
+S. Bubble,448602,Sorted,1000
+S. Bubble,356234,Sorted,1000
+S. Bubble,367159,Sorted,1000
+S. Bubble,366497,Sorted,1000
+S. Bubble,355571,Sorted,1000
+S. Bubble,355241,Sorted,1000
+S. Bubble,372456,Sorted,1000
+S. Bubble,369145,Sorted,1000
+S. Bubble,366828,Sorted,1000
+S. Bubble,355240,Sorted,1000
+S. Bubble,357888,Sorted,1000
+S. Bubble,356564,Sorted,1000
+S. Bubble,356896,Sorted,1000
+S. Bubble,356565,Sorted,1000
+E. Bubble,34432,Sorted,1000
+E. Bubble,36749,Sorted,1000
+E. Bubble,36749,Sorted,1000
+E. Bubble,34762,Sorted,1000
+E. Bubble,33438,Sorted,1000
+E. Bubble,34432,Sorted,1000
+E. Bubble,34763,Sorted,1000
+E. Bubble,35756,Sorted,1000
+E. Bubble,43039,Sorted,1000
+E. Bubble,42046,Sorted,1000
+E. Bubble,32776,Sorted,1000
+Selection,4434046,Sorted,1000
+Selection,429400,Sorted,1000
+Selection,292336,Sorted,1000
+Selection,298627,Sorted,1000
+Selection,283066,Sorted,1000
+Selection,282735,Sorted,1000
+Selection,293661,Sorted,1000
+Selection,337693,Sorted,1000
+Selection,294985,Sorted,1000
+Selection,282736,Sorted,1000
+Selection,292336,Sorted,1000
+Selection,284722,Sorted,1000
+Selection,283728,Sorted,1000
+Insertion,45357,Sorted,1000
+Insertion,59261,Sorted,1000
+Insertion,66545,Sorted,1000
+Insertion,62573,Sorted,1000
+Insertion,70518,Sorted,1000
+Insertion,63565,Sorted,1000
+Insertion,64559,Sorted,1000
+Insertion,71180,Sorted,1000
+Insertion,71842,Sorted,1000
+Insertion,66214,Sorted,1000
+Insertion,73167,Sorted,1000
+Insertion,75484,Sorted,1000
+S. Bubble,3462681,Inv Sorted,1000
+S. Bubble,1003148,Inv Sorted,1000
+S. Bubble,723061,Inv Sorted,1000
+S. Bubble,759148,Inv Sorted,1000
+S. Bubble,801526,Inv Sorted,1000
+S. Bubble,701872,Inv Sorted,1000
+S. Bubble,713791,Inv Sorted,1000
+S. Bubble,703859,Inv Sorted,1000
+S. Bubble,696906,Inv Sorted,1000
+S. Bubble,698561,Inv Sorted,1000
+E. Bubble,8068884,Inv Sorted,1000
+E. Bubble,1240196,Inv Sorted,1000
+E. Bubble,1114719,Inv Sorted,1000
+E. Bubble,1130941,Inv Sorted,1000
+E. Bubble,1155440,Inv Sorted,1000
+E. Bubble,1253107,Inv Sorted,1000
+E. Bubble,1153785,Inv Sorted,1000
+E. Bubble,1115381,Inv Sorted,1000
+E. Bubble,1228939,Inv Sorted,1000
+E. Bubble,1114057,Inv Sorted,1000
+E. Bubble,1186231,Inv Sorted,1000
+Selection,3000836,Inv Sorted,1000
+Selection,1500418,Inv Sorted,1000
+Selection,1405400,Inv Sorted,1000
+Selection,1355077,Inv Sorted,1000
+Selection,1410035,Inv Sorted,1000
+Selection,1358057,Inv Sorted,1000
+Selection,1406062,Inv Sorted,1000
+Selection,1360044,Inv Sorted,1000
+Selection,1408380,Inv Sorted,1000
+Selection,1447777,Inv Sorted,1000
+Selection,1387191,Inv Sorted,1000
+Selection,1356732,Inv Sorted,1000
+Selection,1398117,Inv Sorted,1000
+Selection,1397454,Inv Sorted,1000
+Insertion,5888445,Inv Sorted,1000
+Insertion,854497,Inv Sorted,1000
+Insertion,830659,Inv Sorted,1000
+Insertion,395962,Inv Sorted,1000
+Insertion,395631,Inv Sorted,1000
+Insertion,396624,Inv Sorted,1000
+Insertion,408873,Inv Sorted,1000
+Insertion,383050,Inv Sorted,1000
+Insertion,435029,Inv Sorted,1000
+Insertion,395631,Inv Sorted,1000
+Insertion,395300,Inv Sorted,1000
+Insertion,395962,Inv Sorted,1000
+Insertion,395631,Inv Sorted,1000
+Insertion,424434,Inv Sorted,1000
+Insertion,395962,Inv Sorted,1000
+Insertion,410198,Inv Sorted,1000
+Insertion,403246,Inv Sorted,1000
+Insertion,261546,Random,1000
+Insertion,211555,Random,1000
+Insertion,230757,Random,1000
+Insertion,279094,Random,1000
+Insertion,219501,Random,1000
+Insertion,230095,Random,1000
+Insertion,225791,Random,1000
+Insertion,239034,Random,1000
+Insertion,221818,Random,1000
+Insertion,224798,Random,1000
+Insertion,210893,Random,1000
+Insertion,207913,Random,1000
+Insertion,203609,Random,1000
+Insertion,205927,Random,1000
+Selection,1357064,Random,1000
+Selection,1398116,Random,1000
+Selection,1375273,Random,1000
+Selection,1397786,Random,1000
+Selection,1468966,Random,1000
+Selection,1362692,Random,1000
+Selection,1358388,Random,1000
+Selection,1390171,Random,1000
+Selection,1356401,Random,1000
+Selection,1360706,Random,1000
+Selection,1406062,Random,1000
+Selection,1357063,Random,1000
+Selection,1357064,Random,1000
+E. Bubble,1306410,Random,1000
+E. Bubble,1440825,Random,1000
+E. Bubble,1262046,Random,1000
+E. Bubble,1321639,Random,1000
+E. Bubble,1464000,Random,1000
+E. Bubble,1313362,Random,1000
+E. Bubble,1256087,Random,1000
+E. Bubble,1365009,Random,1000
+E. Bubble,1313031,Random,1000
+E. Bubble,1298795,Random,1000
+E. Bubble,1292836,Random,1000
+E. Bubble,1312038,Random,1000
+E. Bubble,1396130,Random,1000
+E. Bubble,1299126,Random,1000
+S. Bubble,963419,Random,1000
+S. Bubble,885286,Random,1000
+S. Bubble,896874,Random,1000
+S. Bubble,922367,Random,1000
+S. Bubble,934285,Random,1000
+S. Bubble,886611,Random,1000
+S. Bubble,886942,Random,1000
+S. Bubble,938589,Random,1000
+S. Bubble,930974,Random,1000
+S. Bubble,921705,Random,1000
+S. Bubble,922036,Random,1000
+S. Bubble,912765,Random,1000
+S. Bubble,896211,Random,1000
+S. Bubble,52761272,Sorted,10000
+S. Bubble,52162032,Sorted,10000
+S. Bubble,52160045,Sorted,10000
+S. Bubble,52158059,Sorted,10000
+S. Bubble,52725516,Sorted,10000
+S. Bubble,53634639,Sorted,10000
+S. Bubble,54361673,Sorted,10000
+S. Bubble,52209706,Sorted,10000
+S. Bubble,52350411,Sorted,10000
+S. Bubble,52087540,Sorted,10000
+S. Bubble,52016691,Sorted,10000
+S. Bubble,52480523,Sorted,10000
+E. Bubble,9932,Sorted,10000
+E. Bubble,9932,Sorted,10000
+E. Bubble,9932,Sorted,10000
+E. Bubble,10925,Sorted,10000
+E. Bubble,10263,Sorted,10000
+E. Bubble,9932,Sorted,10000
+E. Bubble,9601,Sorted,10000
+E. Bubble,9601,Sorted,10000
+E. Bubble,9601,Sorted,10000
+E. Bubble,9601,Sorted,10000
+E. Bubble,9601,Sorted,10000
+E. Bubble,9270,Sorted,10000
+E. Bubble,9933,Sorted,10000
+E. Bubble,9601,Sorted,10000
+E. Bubble,9933,Sorted,10000
+E. Bubble,10263,Sorted,10000
+E. Bubble,10263,Sorted,10000
+E. Bubble,9932,Sorted,10000
+E. Bubble,10594,Sorted,10000
+E. Bubble,10263,Sorted,10000
+Selection,137418341,Sorted,10000
+Selection,138345342,Sorted,10000
+Selection,138745939,Sorted,10000
+Selection,144784690,Sorted,10000
+Selection,139118395,Sorted,10000
+Selection,138948886,Sorted,10000
+Selection,139079329,Sorted,10000
+Selection,137776892,Sorted,10000
+Selection,143641500,Sorted,10000
+Selection,138421489,Sorted,10000
+Selection,139607719,Sorted,10000
+Selection,138759844,Sorted,10000
+Selection,137493826,Sorted,10000
+Selection,138137429,Sorted,10000
+Selection,138847579,Sorted,10000
+Insertion,19533,Sorted,10000
+Insertion,18871,Sorted,10000
+Insertion,18871,Sorted,10000
+Insertion,18871,Sorted,10000
+Insertion,27811,Sorted,10000
+Insertion,18871,Sorted,10000
+Insertion,19865,Sorted,10000
+Insertion,18540,Sorted,10000
+Insertion,20196,Sorted,10000
+Insertion,19202,Sorted,10000
+S. Bubble,69593629,Inv Sorted,10000
+S. Bubble,69449943,Inv Sorted,10000
+S. Bubble,68533205,Inv Sorted,10000
+S. Bubble,70154465,Inv Sorted,10000
+S. Bubble,69491328,Inv Sorted,10000
+E. Bubble,112900482,Inv Sorted,10000
+E. Bubble,112442940,Inv Sorted,10000
+E. Bubble,112795532,Inv Sorted,10000
+E. Bubble,113042842,Inv Sorted,10000
+Selection,138252643,Inv Sorted,10000
+Selection,138523459,Inv Sorted,10000
+Selection,145691166,Inv Sorted,10000
+Selection,138466515,Inv Sorted,10000
+Insertion,38248074,Inv Sorted,10000
+Insertion,37751465,Inv Sorted,10000
+Insertion,36931070,Inv Sorted,10000
+Insertion,37071113,Inv Sorted,10000
+Insertion,36985696,Inv Sorted,10000
+Insertion,37595531,Inv Sorted,10000
+S. Bubble,110204894,Random,10000
+S. Bubble,107237497,Random,10000
+S. Bubble,105832427,Random,10000
+S. Bubble,107039516,Random,10000
+S. Bubble,107592736,Random,10000
+S. Bubble,114637946,Random,10000
+S. Bubble,107207037,Random,10000
+E. Bubble,159811713,Random,10000
+E. Bubble,159798139,Random,10000
+E. Bubble,158198068,Random,10000
+E. Bubble,159330666,Random,10000
+E. Bubble,158379826,Random,10000
+E. Bubble,159941162,Random,10000
+E. Bubble,172731132,Random,10000
+Selection,138411226,Random,10000
+Selection,138217879,Random,10000
+Selection,138445326,Random,10000
+Selection,139462710,Random,10000
+Selection,138107632,Random,10000
+Insertion,18497980,Random,10000
+Insertion,18529762,Random,10000
+Insertion,18467521,Random,10000
+Insertion,18130490,Random,10000
+Insertion,18883678,Random,10000
+Insertion,18945258,Random,10000
+Insertion,18305627,Random,10000
+S. Bubble,5020066929,Sorted,100000
+S. Bubble,4977204376,Sorted,100000
+S. Bubble,4977240794,Sorted,100000
+E. Bubble,105281,Sorted,100000
+E. Bubble,104618,Sorted,100000
+E. Bubble,104288,Sorted,100000
+Selection,13840047582,Sorted,100000
+Selection,13814337201,Sorted,100000
+Selection,13843217595,Sorted,100000
+Insertion,190367,Sorted,100000
+Insertion,191028,Sorted,100000
+Insertion,191360,Sorted,100000
+S. Bubble,7003850366,Inv Sorted,100000
+S. Bubble,7007468651,Inv Sorted,100000
+E. Bubble,11269088943,Inv Sorted,100000
+Selection,13778897279,Inv Sorted,100000
+Selection,13836688527,Inv Sorted,100000
+Insertion,3696325301,Inv Sorted,100000
+Insertion,3669349563,Inv Sorted,100000
+Insertion,3690738132,Inv Sorted,100000
+S. Bubble,15523416715,Random,100000
+E. Bubble,20115629838,Random,100000
+E. Bubble,20077833346,Random,100000
+Selection,13842143598,Random,100000
+Selection,13815022188,Random,100000
+Insertion,1843943967,Random,100000
+Insertion,1827823084,Random,100000
+Insertion,216190,Random,1000
+Insertion,199636,Random,1000
+Selection,6032257368,Random,100000
+Selection,5451677672,Inv Sorted,100000
+Selection,5427990758,Inv Sorted,100000
+Selection,5404191084,Inv Sorted,100000
+Insertion,5178179,Inv Sorted,1000
+Insertion,734753,Inv Sorted,1000
+Insertion,482354,Inv Sorted,1000
+Insertion,439965,Inv Sorted,1000
+Insertion,397022,Inv Sorted,1000
+Insertion,428051,Inv Sorted,1000
+E. Bubble,120465388,Inv Sorted,10000
+E. Bubble,107732166,Inv Sorted,10000
+E. Bubble,87673025,Inv Sorted,10000
+E. Bubble,86235935,Inv Sorted,10000
+E. Bubble,95915722,Inv Sorted,10000
+E. Bubble,108757551,Inv Sorted,10000
+E. Bubble,112102726,Inv Sorted,10000
+E. Bubble,83531590,Inv Sorted,10000
+S. Bubble,70037849,Inv Sorted,10000
+S. Bubble,64095549,Inv Sorted,10000
+S. Bubble,136813362,Random,10000
+S. Bubble,100346681,Random,10000
+E. Bubble,7757,Sorted,10000
+S. Bubble,54380853,Sorted,10000
+S. Bubble,35806733,Sorted,10000
+S. Bubble,3989332,Sorted,1000
+S. Bubble,326372,Sorted,1000
+E. Bubble,21333,Sorted,1000
+E. Bubble,29645,Sorted,1000
+E. Bubble,25489,Sorted,1000
+S. Bubble,5433071,Sorted,1000
+S. Bubble,318892,Sorted,1000
+E. Bubble,35463,Sorted,1000
+S. Bubble,3559617,Sorted,1000
+S. Bubble,2783029,Sorted,1000
+S. Bubble,545246,Sorted,1000
+S. Bubble,431931,Sorted,1000
+S. Bubble,283151,Sorted,1000
+S. Bubble,311689,Sorted,1000
+E. Bubble,34355,Sorted,1000
+E. Bubble,27428,Sorted,1000
+E. Bubble,25212,Sorted,1000
+E. Bubble,37125,Sorted,1000
+E. Bubble,5923183,Inv Sorted,1000
+E. Bubble,1545974,Inv Sorted,1000
+S. Bubble,2742025,Sorted,1000
+S. Bubble,366268,Sorted,1000
+S. Bubble,2804085,Sorted,1000
+S. Bubble,512831,Sorted,1000
+S. Bubble,429714,Sorted,1000
+S. Bubble,289523,Sorted,1000
+S. Bubble,277887,Sorted,1000
+Insertion,321385,Sorted,10000
+Insertion,466008,Sorted,10000
+Insertion,319446,Sorted,10000
+Insertion,311411,Sorted,10000
+Insertion,476259,Sorted,10000
+Insertion,482909,Sorted,10000
+S. Bubble,5502889,Sorted,1000
+S. Bubble,4694162,Sorted,1000
+S. Bubble,5924568,Random,1000
+Selection,5747806,Random,1000
+Selection,739462,Random,1000
+S. Bubble,4624066,Sorted,1000
+S. Bubble,535272,Sorted,1000
+S. Bubble,4263617,Random,1000
+S. Bubble,1099082,Random,1000
+S. Bubble,1140640,Random,1000
+S. Bubble,684606,Random,1000
+S. Bubble,1114320,Random,1000
+S. Bubble,1074147,Random,1000
+S. Bubble,668259,Random,1000
+S. Bubble,762459,Random,1000
+S. Bubble,745281,Random,1000
+S. Bubble,672692,Random,1000
+S. Bubble,681835,Random,1000
+Insertion,2864483,Random,1000
+Insertion,7255822,Random,1000
+Insertion,244364,Random,1000
+Insertion,153212,Random,1000
+Insertion,270960,Random,1000
+Selection,5612880,Random,1000
+Selection,741956,Random,1000
+Selection,797367,Random,1000
+Selection,525852,Random,1000
+Selection,843635,Random,1000
+Selection,645541,Random,1000
+Selection,451879,Random,1000
+Selection,452987,Random,1000
+Selection,453541,Random,1000
+Selection,448554,Random,1000
+Selection,452155,Random,1000
+Selection,648311,Random,1000
+Selection,450771,Random,1000
+S. Bubble,108768909,Random,10000
+E. Bubble,125137385,Random,10000
+Selection,47241671,Random,10000
+Insertion,36196552,Random,10000
+Insertion,51890673,Random,10000
+Insertion,15410693,Random,10000
+Insertion,15694121,Random,10000
+Insertion,15561411,Random,10000
+Insertion,15592996,Random,10000
+Insertion,15464164,Random,10000
+Insertion,3689555,Random,1000
+Insertion,8550780,Random,1000
+Insertion,285922,Random,1000
+Insertion,266528,Random,1000
+Insertion,147116,Random,1000
+Insertion,264865,Random,1000
+S. Bubble,12932533,Inv Sorted,1000
+E. Bubble,17464407,Inv Sorted,1000
+Selection,6703213,Inv Sorted,1000
+Insertion,10559501,Inv Sorted,1000
+Insertion,9210113,Inv Sorted,1000
+E. Bubble,19651810,Inv Sorted,1000
+Selection,6236014,Inv Sorted,1000
+S. Bubble,7763001,Sorted,1000
+S. Bubble,14223019,Inv Sorted,1000
+S. Bubble,7015571,Sorted,1000
+S. Bubble,15423368,Inv Sorted,1000
+E. Bubble,17688860,Inv Sorted,1000
+E. Bubble,12698264,Inv Sorted,1000
+E. Bubble,16562584,Inv Sorted,1000
+E. Bubble,6489024,Inv Sorted,1000
+E. Bubble,2629166,Inv Sorted,1000
+E. Bubble,2721088,Random,1000
+S. Bubble,10449729,Inv Sorted,1000
+E. Bubble,20589778,Inv Sorted,1000
+E. Bubble,72289,Sorted,1000
+E. Bubble,13451940,Inv Sorted,1000
+E. Bubble,11323440,Random,1000
+S. Bubble,10861596,Random,1000
+E. Bubble,12830347,Random,1000
+Selection,6373005,Random,1000
+Insertion,11074893,Random,1000
+Insertion,8964688,Random,1000
+E. Bubble,12435883,Inv Sorted,1000
+Selection,6692057,Inv Sorted,1000
+Insertion,15343940,Inv Sorted,1000
+Insertion,4103052,Random,1000
+Selection,1708155,Random,1000
+Selection,2006234,Random,1000
+Selection,1959826,Random,1000
+Insertion,1669779,Random,1000
+Insertion,695221,Random,1000
+Insertion,762155,Random,1000
+Insertion,711731,Random,1000
+S. Bubble,11186003,Sorted,1000
+S. Bubble,11449723,Sorted,1000
+S. Bubble,11317194,Sorted,1000
+E. Bubble,70058,Sorted,1000
+Selection,6818785,Sorted,1000
+Insertion,123604,Sorted,1000
+S. Bubble,10260529,Random,1000
+E. Bubble,66488,Random,1000
+S. Bubble,10879445,Sorted,1000
+E. Bubble,71842,Sorted,1000
+E. Bubble,15521538,Inv Sorted,1000
+E. Bubble,7139,Random,1000
+E. Bubble,138776,Random,1000
+E. Bubble,2231,Inv Sorted,1000
+E. Bubble,1785,Inv Sorted,1000
+S. Bubble,10936116,Sorted,1000
+S. Bubble,10766996,Sorted,1000
+S. Bubble,6653681,Sorted,1000
+S. Bubble,12924501,Random,1000
+S. Bubble,717532,Sorted,1000
+S. Bubble,415883,Sorted,1000
+S. Bubble,10762981,Random,1000
+S. Bubble,701022,Sorted,1000
+S. Bubble,469430,Inv Sorted,1000
+S. Bubble,1444434,Random,1000
+S. Bubble,1373039,Random,1000
+S. Bubble,1479687,Random,1000
+S. Bubble,1423462,Random,1000
+S. Bubble,414990,Sorted,1000
+S. Bubble,415437,Inv Sorted,1000
+S. Bubble,1379732,Random,1000
+S. Bubble,7599681,Inv Sorted,1000
+S. Bubble,6829941,Sorted,1000
+S. Bubble,19109645,Inv Sorted,1000
+S. Bubble,2046840,Random,1000
+S. Bubble,414545,Sorted,1000
+S. Bubble,6539001,Sorted,1000
+S. Bubble,18241288,Random,1000
+S. Bubble,703253,Sorted,1000
+S. Bubble,41664603,Sorted,10000
+S. Bubble,113802451,Inv Sorted,10000
+S. Bubble,184156287,Random,10000
+S. Bubble,180737300,Random,10000
+S. Bubble,174653896,Random,10000
+S. Bubble,6860730,Sorted,1000
+S. Bubble,6532754,Sorted,1000
+S. Bubble,21445639,Random,1000
+S. Bubble,184592695,Random,10000
+S. Bubble,190552495,Random,10000
+S. Bubble,53732795,Sorted,10000
+S. Bubble,50732369,Sorted,10000
+S. Bubble,52888088,Sorted,10000
+S. Bubble,50121932,Sorted,10000
+S. Bubble,186526195,Random,10000
+S. Bubble,189298599,Random,10000
+S. Bubble,202763480,Random,10000
+S. Bubble,11512194,Random,1000
+S. Bubble,2222653,Random,1000
+S. Bubble,186299065,Random,10000
+S. Bubble,187762688,Random,10000
+E. Bubble,477464,Sorted,10000
+S. Bubble,7301635,Sorted,1000
+S. Bubble,911198,Sorted,1000
+S. Bubble,54425582,Sorted,10000
+S. Bubble,50412204,Sorted,10000
+S. Bubble,49997657,Sorted,10000
+S. Bubble,119777510,Inv Sorted,10000
+S. Bubble,209257900,Random,10000
+E. Bubble,211929469,Random,10000
+E. Bubble,203906729,Random,10000
+E. Bubble,214291356,Random,10000
+Insertion,136009514,Random,10000
+Insertion,169190162,Random,10000
+Insertion,79118967,Random,10000
+Insertion,60238598,Random,10000
+Insertion,68524166,Random,10000
+Insertion,58293043,Random,10000
+Insertion,68257322,Random,10000
+Insertion,64739257,Random,10000
+S. Bubble,204584996,Random,10000
+S. Bubble,189226708,Random,10000
+S. Bubble,194161101,Random,10000
+E. Bubble,225779059,Random,10000
+E. Bubble,198821511,Random,10000
+E. Bubble,162406152,Random,10000
+E. Bubble,202319496,Random,10000
+E. Bubble,152164,Sorted,10000
+S. Bubble,45248895,Sorted,10000
+S. Bubble,6863885,Sorted,1000
+E. Bubble,71842,Sorted,1000
+S. Bubble,24444390,Inv Sorted,1000
+E. Bubble,14643430,Inv Sorted,1000
+E. Bubble,1552429,Inv Sorted,1000
+E. Bubble,1319943,Inv Sorted,1000
+S. Bubble,6577853,Sorted,1000
+E. Bubble,65596,Sorted,1000
+E. Bubble,210154819,Random,10000
+Insertion,91175611,Random,10000
+Selection,115168864,Random,10000
+Insertion,90678513,Random,10000
+Insertion,698793,Random,1000
+Selection,1254794,Random,1000
+E. Bubble,1873713,Random,1000
+S. Bubble,11286455,Random,1000
+S. Bubble,854528,Sorted,1000
+S. Bubble,920569,Inv Sorted,1000
+E. Bubble,1392679,Inv Sorted,1000
+E. Bubble,69612,Sorted,1000
+S. Bubble,207160180,Random,10000
+E. Bubble,214384618,Random,10000
+Selection,118288000,Random,10000
+Insertion,93451822,Random,10000
+S. Bubble,6923679,Sorted,1000
+E. Bubble,66488,Sorted,1000
+Selection,10474319,Sorted,1000
+Selection,1007137,Sorted,1000
+Selection,479250,Sorted,1000
+Selection,470325,Sorted,1000
+Insertion,80321,Sorted,1000
+Insertion,111110,Sorted,1000
+Insertion,103972,Sorted,1000
+Insertion,76751,Sorted,1000
+Insertion,7668965933,Random,100000
+Selection,8678304154,Random,100000
+Insertion,135207,Sorted,10000
+Insertion,194109,Sorted,10000
+E. Bubble,216391753,Random,10000
+E. Bubble,200673804,Random,10000
+E. Bubble,151384758,Random,10000
+Insertion,4812573,Sorted,100000
+Selection,5649652277,Sorted,100000
+Selection,5689425950,Sorted,100000
+E. Bubble,4933947,Sorted,100000
+S. Bubble,32489888,Sorted,1000
+S. Bubble,6198112,Sorted,1000
+S. Bubble,934849,Sorted,1000
+S. Bubble,654171,Sorted,1000
+E. Bubble,70057,Sorted,1000
+E. Bubble,50870,Sorted,1000
+Selection,6905830,Sorted,1000
+Selection,1011600,Sorted,1000
+Insertion,81213,Sorted,1000
+Insertion,92815,Sorted,1000
+S. Bubble,14178014,Inv Sorted,1000
+S. Bubble,1772419,Inv Sorted,1000
+S. Bubble,1706823,Inv Sorted,1000
+E. Bubble,13303406,Inv Sorted,1000
+E. Bubble,1471661,Inv Sorted,1000
+E. Bubble,1334223,Inv Sorted,1000
+Selection,6311007,Inv Sorted,1000
+Selection,2232926,Inv Sorted,1000
+Selection,1969652,Inv Sorted,1000
+Insertion,12120008,Inv Sorted,1000
+Insertion,3234709,Inv Sorted,1000
+Insertion,1300309,Inv Sorted,1000
+Selection,5753223,Random,1000
+Insertion,11078957,Random,1000
+Selection,80991341,Random,10000
+Insertion,96622275,Random,10000
+Selection,7702917218,Random,100000
+Insertion,6179425302,Random,100000
+Insertion,9415865,Random,1000
+Selection,7157503,Random,1000
+Insertion,9165084,Random,1000
+Selection,9486815,Random,1000
+Insertion,109371465,Random,10000
+Selection,78967696,Random,10000
+Selection,7594361,Random,1000
+Insertion,9985252,Random,1000
+Insertion,28360936,Random,1000
+Insertion,555554,Random,1000
+Insertion,556447,Random,1000
+Insertion,556447,Random,1000
+Selection,5672009,Sorted,1000
+Insertion,132083,Sorted,1000
+Selection,44970002,Sorted,10000
+Insertion,1204816,Sorted,10000
+Insertion,9261023,Random,1000
+Selection,9483246,Random,1000
+S. Bubble,6709489,Sorted,1000
+E. Bubble,48639,Sorted,1000
+Selection,6759468,Sorted,1000
+Insertion,83445,Sorted,1000
+Insertion,10994174,Inv Sorted,1000
+Selection,20853144,Inv Sorted,1000
+E. Bubble,12900462,Inv Sorted,1000
+S. Bubble,14318130,Inv Sorted,1000
+Selection,862113,Random,1000
+Insertion,1677819,Random,1000
+E. Bubble,2493970,Random,1000
